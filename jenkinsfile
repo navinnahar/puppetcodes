@@ -1,0 +1,4 @@
+
+
+puppet.credentials 'puppet_credentials'
+puppet.hiera scope: 'production' key:<key_name>, value: <value_name>
